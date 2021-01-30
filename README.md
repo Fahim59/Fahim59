@@ -16,4 +16,3 @@ I am currently an undergraduate student of Computer Science and Software Enginee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim59&show_icons=true&theme=onedark&count_private=true&layout=compact)](https://github.com/fahim59/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fahim59&repo=github-readme-stats)](https://github.com/fahim59/github-readme-stats)
