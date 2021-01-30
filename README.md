@@ -1,4 +1,4 @@
-         Assalamualaikum! 
+Assalamualaikum! 
 >>> Welcome to my github profile <<<
 
 I am Mustafizur Rahman (Fahim)
