@@ -10,7 +10,9 @@ I am currently an undergraduate student of Computer Science and Software Enginee
 
 📨 Email: mustafizurr171@gmail.com -- mrahaman59@yahoo.com
 
-📲 Facebook: https://www.facebook.com/mustafizur.rahman171 
+📲 Facebook: https://www.facebook.com/mustafizur.rahman171
+
+📲 LinkedIn: https://www.linkedin.com/in/mustafiz171/
 
 [![Mustafizur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim59&show_icons=true&theme=onedark&count_private=true&findTotalCommits=true&hide=contribs)](https://github.com/fahim59/github-readme-stats)
 
