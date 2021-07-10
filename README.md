@@ -16,6 +16,6 @@ I am currently an undergraduate student of Computer Science and Software Enginee
 
 [![Mustafizur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim59&show_icons=true&theme=onedark&count_private=true&findTotalCommits=true&hide=contribs)](https://github.com/fahim59/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim59&show_icons=true&theme=onedark&count_private=true&layout=compact)](https://github.com/fahim59/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim59&show_icons=true&theme=onedark&count_private=true&layout=compact&langs_count=8)](https://github.com/fahim59/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim59&theme=onedark" alt="fahim59" /></p>
