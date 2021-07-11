@@ -4,7 +4,7 @@
 
 I am currently an undergraduate student of Computer Science and Software Engineering at American International University-Bangladesh.
 
-<h3 align="left">Connect Info</h3>
+<h3 align="left">Contact Info</h3>
 ☎ Phone: +8801686026037 (Whatsapp)
 
 📨 Email: mustafizurr171@gmail.com -- mrahaman59@yahoo.com
