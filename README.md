@@ -2,7 +2,7 @@
 
 ## I am <a href="https://fahim59.github.io/Fahim59/">Mustafizur Rahman (Fahim)</a>
 
-I am currently an undergraduate student of Computer Science and Software Engineering at American International University-Bangladesh.
+I am currently working as a Software Quality Assurance Engineer at <a href="https://www.linkedin.com/company/era-infotech-ltd/mycompany/">ERA InfoTech Limited.</a>
 
 <h3 align="left">Contact Info</h3>
 ☎ Phone: +8801686026037 (Whatsapp), +8801316949973
