@@ -1,6 +1,7 @@
 # Assalamualaikum! 
 
-## I am <a href="https://fahim59.github.io/Fahim59/">Mustafizur Rahman (Fahim)</a>
+
+## I am Mustafizur Rahman (Fahim)</a>
 
 I am currently working as a Software Quality Assurance Engineer at <a href="https://www.linkedin.com/company/era-infotech-ltd/mycompany/">ERA InfoTech Limited.</a>
 
