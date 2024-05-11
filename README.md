@@ -8,7 +8,7 @@ I am currently working as a Software Quality Assurance Engineer at <a href="http
 <h3 align="left">Contact Info</h3>
 ☎ Phone: +8801686026037 (Whatsapp), +8801316949973
 
-📨 Email: mustafizurr171@gmail.com -- mrahaman59@yahoo.com
+📨 Email: mustafizurr171@gmail.com
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mustafiz171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafiz171" height="30" width="40" /></a>
