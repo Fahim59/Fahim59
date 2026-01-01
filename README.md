@@ -16,8 +16,6 @@ I am currently working as a Software Quality Assurance Engineer at <a href="http
 <a href="https://www.instagram.com/m_r_fahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_r_fahim" height="30" width="40" /></a>
 </p>
 
-[![Mustafizur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim59&show_icons=true&theme=onedark&count_private=true&findTotalCommits=true&hide=contribs)](https://github.com/fahim59/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim59&show_icons=true&theme=onedark&count_private=true&layout=compact&langs_count=10)](https://github.com/fahim59/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim59&theme=onedark" alt="fahim59" /></p>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Fahim59" alt="GitHub Insights" />
+</p>
